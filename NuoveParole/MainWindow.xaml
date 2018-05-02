@@ -1,0 +1,30 @@
+﻿<Window x:Class="NuoveParole.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Nuove Parole" Height="400" Width="900">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition />
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions >
+            <ColumnDefinition Width="320"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="Creazione dizionario" Grid.Column="0" Grid.Row="0" FontSize="26"/>
+        <Button x:Name="btDizionarioAnalizza" Content="Analizza file testo" Click="btDizionarioAnalizza_Click"  Grid.Column="0" Grid.Row="1"/>
+        <ListBox x:Name="lbParole" Grid.Column="0" Grid.Row="2" Margin="0,5,0,5"/>
+        <Grid Grid.Column="0" Grid.Row="3">
+            <Grid.ColumnDefinitions >
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="Seleziona tutti i file da analizzare e poi invia al DB // Emilie Rollandin" Grid.Column="0" TextWrapping="Wrap" Margin="0,5,0,5"/>
+            <Button x:Name="btAggiungiDB2" Content="Aggiungi al Database" Click="btAggiungiDB2_Click" Grid.Column="1" Margin="5,5,0,5"/>
+        </Grid>
+        <Button x:Name="btAnalizzaLettere" Content="Analizza lettere" Click="btAnalizzaLettere_Click" Grid.Column="1" Grid.Row="1" Margin="5,0,0,0"/>
+        <DataGrid Grid.Column="1" Grid.Row="2" Margin="5,5,0,5" />
+    </Grid>
+</Window>

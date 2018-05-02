@@ -1,0 +1,13 @@
+D:\Programmazione\00Github\NuoveParole\NuoveParole\bin\Debug\NuoveParole.exe
+D:\Programmazione\00Github\NuoveParole\NuoveParole\bin\Debug\NuoveParole.pdb
+D:\Programmazione\00Github\NuoveParole\NuoveParole\obj\Debug\NuoveParole.csprojResolveAssemblyReference.cache
+D:\Programmazione\00Github\NuoveParole\NuoveParole\obj\Debug\MainWindow.baml
+D:\Programmazione\00Github\NuoveParole\NuoveParole\obj\Debug\MainWindow.g.cs
+D:\Programmazione\00Github\NuoveParole\NuoveParole\obj\Debug\App.g.cs
+D:\Programmazione\00Github\NuoveParole\NuoveParole\obj\Debug\NuoveParole_MarkupCompile.cache
+D:\Programmazione\00Github\NuoveParole\NuoveParole\obj\Debug\NuoveParole.g.resources
+D:\Programmazione\00Github\NuoveParole\NuoveParole\obj\Debug\NuoveParole.Properties.Resources.resources
+D:\Programmazione\00Github\NuoveParole\NuoveParole\obj\Debug\NuoveParole.csproj.GenerateResource.Cache
+D:\Programmazione\00Github\NuoveParole\NuoveParole\obj\Debug\NuoveParole.exe
+D:\Programmazione\00Github\NuoveParole\NuoveParole\obj\Debug\NuoveParole.pdb
+D:\Programmazione\00Github\NuoveParole\NuoveParole\bin\Debug\NuoveParole.exe.config
